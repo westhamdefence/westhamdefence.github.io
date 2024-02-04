@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/png" href="/favicon.png"/>
-
 # Welcome
 West Ham Defence Audit Group is the première web3 security firm
 
