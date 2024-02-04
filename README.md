@@ -1,3 +1,7 @@
+---
+title: West Ham Defence Audit Group
+---
+
 # Welcome
 West Ham Defence Audit Group is the première web3 security firm
 
