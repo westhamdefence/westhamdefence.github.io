@@ -1,7 +1,7 @@
 # Welcome
 West Ham Defence Audit Group is the première web3 security firm
 
-[:arrow: get in touch](mailto:westhamdefence@hotmail.com)
+[➡️ get in touch](mailto:westhamdefence@hotmail.com)
 
 ## fastest growing
 We are taking the industry by storm with our growth-by-acquisition strategy
